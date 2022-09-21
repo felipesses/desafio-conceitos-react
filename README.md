@@ -1,7 +1,7 @@
 <h1>Desafio 01 - Conceitos React</h1>
 
 <p align="center">
-<image src=".github/cover-reactjs.png"/></br>
+<image src="https://raw.githubusercontent.com/Bluniz/ignite-reactjs-modulo-01-desafio-01-conceitos-react/main/.github/cover-reactjs.png"/></br>
 
 </p>
 
@@ -11,7 +11,7 @@
 ## Apresentação do projeto 🌟
 
 <p align="center">
-<image src=".github/github-image-example.png" />
+<image src="https://raw.githubusercontent.com/Bluniz/ignite-reactjs-modulo-01-desafio-01-conceitos-react/main/.github/github-image-example.png" />
 </p>
 
 ---
