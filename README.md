@@ -46,6 +46,3 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicaç
 
 > This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
 
----
-
-##### Made by 'Lucas Rosa'(Bluniz) 🌊
